@@ -1,0 +1,4 @@
+Buenos dias Martin o quien lea esto, era para plantear un problema que tuve a la hora de desarrolar la funcion de login en la pagina Reservas
+la cual no logre hacer funcionar, tampoco lo logramos con ayuda de compañeros de clase los cuales no encontraron el modo de hacerla funcionar.
+Muchas gracias, saludos.
+Santiago

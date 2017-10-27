@@ -1,0 +1,11 @@
+{
+  "name": "mutualista-alonso",
+  "version": "1.0.0",
+  "main": "Untitled-1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Santiago Larrosa",
+  "license": "ISC",
+  "description": ""
+}
