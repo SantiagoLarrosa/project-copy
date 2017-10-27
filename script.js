@@ -1,4 +1,4 @@
-
+//inicializo las variables globales
 var usuario1={
     user: "123456789",
     password: "123456789",
